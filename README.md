@@ -9,4 +9,9 @@ Make sure you have Ruby, version `2.3.4`, running on your computer.
 - Download the dependencies: `bundle install`
 - Fire the server 🚀: `ruby server.rb` 
 
+#### Tech Stack
+- Front-end: Vanilla JavaSCript and (ParticleJS)[https://github.com/VincentGarreau/particles.js/]
+- Server: [Sinatra](http://www.sinatrarb.com/)
+- Deployment: [Heroku](https://dashboard.heroku.com/)
+
 ###### Copyright(c) Vanielle Le
